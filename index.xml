@@ -1,0 +1,67 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>LoveIt 主题 on LoveIt 主题</title><link>https://example.com/</link><description>Recent content in LoveIt 主题 on LoveIt 主题</description><generator>Hugo -- gohugo.io</generator><language>zh</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 25 Aug 2019 16:22:42 +0800</lastBuildDate><atom:link href="https://example.com/" rel="self" type="application/rss+xml"/><item><title>Posts</title><link>https://example.com/posts/</link><pubDate>Sun, 25 Aug 2019 16:22:42 +0800</pubDate><guid>https://example.com/posts/</guid><description/></item><item><title>关于 LoveIt</title><link>https://example.com/about/</link><pubDate>Fri, 02 Aug 2019 11:04:49 +0800</pubDate><guid>https://example.com/about/</guid><description>&lt;p>&lt;a href="https://github.com/dillonzq/LoveIt">LoveIt :(far fa-heart):&lt;/a> 是一个由 &lt;a href="https://dillonzq.com">Dillon&lt;/a> 开发的&lt;strong>简洁&lt;/strong>、&lt;strong>优雅&lt;/strong>且&lt;strong>高效&lt;/strong>的 &lt;a href="https://gohugo.io/">Hugo&lt;/a> 博客主题。&lt;/p>
+&lt;p>它的原型基于 &lt;a href="https://github.com/liuzc/LeaveIt/">LeaveIt 主题&lt;/a> 和 &lt;a href="https://github.com/liuzc/LeaveIt/">KeepIt 主题&lt;/a>。&lt;/p>
+&lt;p>&lt;img src="https://example.com/images/Apple-Devices-Preview.png" alt="Hugo 主题 LoveIt">&lt;/p>
+&lt;h3 id="特性">特性&lt;/h3>
+&lt;h4 id="性能和-seo">性能和 SEO&lt;/h4>
+&lt;ul>
+&lt;li>:(fas fa-rocket): 性能优化：在 &lt;a href="https://developers.google.com/speed/pagespeed/insights">Google PageSpeed Insights&lt;/a> 中， 99/100 的移动设备得分和 100/100 的桌面设备得分&lt;/li>
+&lt;li>:(fab fa-searchengin): 使用基于 JSON-LD 格式 的 SEO SCHEMA 文件进行 SEO 优化&lt;/li>
+&lt;li>:(fab fa-google): 支持 &lt;a href="https://analytics.google.com/analytics">Google Analytics&lt;/a>&lt;/li>
+&lt;li>:(fas fa-search): 支持搜索引擎的网站验证 (Google, Bind, Yandex and Baidu)&lt;/li>
+&lt;li>:(fas fa-tachometer-alt): 支持所有第三方库的 CDN&lt;/li>
+&lt;li>:(far fa-images): 基于 &lt;a href="https://github.com/aFarkas/lazysizes">lazysizes&lt;/a> 自动转换图片为懒加载&lt;/li>
+&lt;/ul>
+&lt;h4 id="外观和布局">外观和布局&lt;/h4>
+&lt;ul>
+&lt;li>:(fas fa-desktop): / :(fas fa-mobile): 响应式布局&lt;/li>
+&lt;li>:(fas fa-moon): / :(fas fa-sun): 模式&lt;/li>
+&lt;li>:(fas fa-layer-group): 页面和列表保持一致的视觉样式&lt;/li>
+&lt;li>:(fas fa-ellipsis-h): 支持分页&lt;/li>
+&lt;li>:(far fa-list-alt): 易用和自动展开的文章目录，同时适配移动端&lt;/li>
+&lt;li>:(fas fa-language): 支持多语言和国际化&lt;/li>
+&lt;li>:(fab fa-css3-alt): 美观的 CSS 动画&lt;/li>
+&lt;/ul>
+&lt;h4 id="社交和评论系统">社交和评论系统&lt;/h4>
+&lt;ul>
+&lt;li>:(far fa-user): 支持 &lt;a href="https://gravatar.com">Gravatar&lt;/a> 头像&lt;/li>
+&lt;li>:(fas fa-user-circle): 支持本地头像&lt;/li>
+&lt;li>:(far fa-id-card): 支持多达 54 种社交链接&lt;/li>
+&lt;li>:(fas fa-share-square): 支持文章分享&lt;/li>
+&lt;li>:(far fa-comment): 支持 &lt;a href="https://disqus.com">Disqus&lt;/a> 评论系统&lt;/li>
+&lt;li>:(far fa-comment-dots): 支持 &lt;a href="https://github.com/gitalk/gitalk">Gitalk&lt;/a> 评论系统&lt;/li>
+&lt;li>:(far fa-comment-alt): 支持 &lt;a href="https://valine.js.org/">Valine&lt;/a> 评论系统&lt;/li>
+&lt;/ul>
+&lt;h4 id="扩展功能">扩展功能&lt;/h4>
+&lt;ul>
+&lt;li>:(fas fa-code): 基于 Hugo 使用的 chroma 进行代码高亮&lt;/li>
+&lt;li>:(fab fa-font-awesome): 使用 &lt;a href="https://fontawesome.com/">Font Awesome&lt;/a> 图标的扩展 Markdown 语法&lt;/li>
+&lt;li>:(fas fa-square-root-alt): 支持基于 &lt;a href="https://katex.org/">Katex&lt;/a> 的数学公式&lt;/li>
+&lt;li>:(fas fa-project-diagram): 支持基于 &lt;a href="https://github.com/knsv/mermaid">mermaid&lt;/a> 的图表和流程图生成功能&lt;/li>
+&lt;li>:(fas fa-music): 支持基于 &lt;a href="https://github.com/MoePlayer/APlayer">APlayer&lt;/a> 和 &lt;a href="https://github.com/metowolf/MetingJS">MetingJS&lt;/a> 的内嵌音乐播放器&lt;/li>
+&lt;li>:(fas fa-tv): 支持内嵌 Bilibili 视频&lt;/li>
+&lt;li>:(far fa-bell): 支持多种提醒样式的 shortcode&lt;/li>
+&lt;li>:(fas fa-align-left): 支持自定义对齐和浮动方式的 shortcode&lt;/li>
+&lt;li>:(fas fa-i-cursor): 支持基于 &lt;a href="https://typeitjs.com/">TypeIt&lt;/a> 的打字动画&lt;/li>
+&lt;li>:(far fa-clock): 支持基于 &lt;a href="https://github.com/hilios/jQuery.countdown">jQuery.countdown&lt;/a> 的倒计时动画&lt;/li>
+&lt;li>:(fas fa-arrow-up): 支持基于 &lt;a href="https://github.com/cferdinandi/smooth-scroll">Smooth Scroll&lt;/a> 的回到顶部动画&lt;/li>
+&lt;li>&amp;hellip;&lt;/li>
+&lt;/ul>
+&lt;h3 id="许可协议">许可协议&lt;/h3>
+&lt;p>LoveIt 根据 MIT 许可协议授权。&lt;/p>
+&lt;p>更多信息请查看 &lt;a href="https://github.com/dillonzq/LoveIt/blob/master/LICENSE">LICENSE 文件&lt;/a>。&lt;/p>
+&lt;p>感谢以下在主题中使用过的项目的作者：&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://fontawesome.com/">Font Awesome&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://daneden.github.io/animate.css/">Animate.css&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/aFarkas/lazysizes">lazysizes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/cferdinandi/smooth-scroll">Smooth Scroll&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://typeitjs.com/">TypeIt&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jquery/jquery">jQuery&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/hilios/jQuery.countdown">jQuery.countdown&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://katex.org/">Katex&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/knsv/mermaid">mermaid&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/MoePlayer/APlayer">APlayer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/metowolf/MetingJS">MetingJS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/gitalk/gitalk">Gitalk&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://valine.js.org/">Valine&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
